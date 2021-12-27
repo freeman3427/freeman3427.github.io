@@ -2,11 +2,22 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Category"
+    url: "/categories/"
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+docs:
+  - title: Programing
+    children:
+      - title: "Python"
+        url:  "/_posts/python/"
+      - title: "C"
+        url: "/_posts/c/"
+      - title: "Algorithm"
+        url: "/_posts/algorithm/"
+      - title: "Project"
+        url: "/_posts/project/"
