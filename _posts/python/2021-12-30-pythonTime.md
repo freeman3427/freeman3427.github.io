@@ -1,3 +1,5 @@
+---
+
 title: "파이썬 기초-Time"
 tags: 
 - readability
@@ -5,7 +7,7 @@ tags:
 - python
 - programing
 
---
+---
 # 1. Time 모듈
 
 <script src="https://gist.github.com/freeman3427/e32296e6e31dc9902d8f041884dbaf03.js"></script>
@@ -19,7 +21,5 @@ time.ctime()은 문자열 타입이다.
 
 
 
-
-
 출처: 위키독스,  https://wikidocs.net/
---
+---
