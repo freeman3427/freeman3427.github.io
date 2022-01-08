@@ -1,6 +1,8 @@
 ---
 
 title: "파이썬 기초-Time"
+categories:
+- python
 tags: 
 - readability
 - standard

@@ -1,7 +1,7 @@
 ---
 title: "Python"
 permalink: /_posts/python/
-layout: category
+layout: categories
 author_profile: true
-taxonomy: "Python"
+taxonomy: "python"
 ---
