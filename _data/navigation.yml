@@ -12,23 +12,28 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-  # documentation links(sidebar)
-docs:
+# documentation links(sidebar)
+posts:
   - title: "Algorithm"
     category: "Algorithm"
     url: /_posts/Algorithm
+
   - title: "C"
     category: "C"
     url: /_posts/C
+
   - title: "Project"
     category: "Projects"
     url: /_posts/Project
+
   - title: "python"
     category: "python"
     url: /_posts/python
+
   - title: "Security"
     category: "Security"
     url: /_posts/Security
+    
   - title: "Web"
     category: "Web"
     url: /_posts/Web

@@ -9,7 +9,7 @@ tags:
 - python
 - programing
 sidebar:
-  nav: "docs"
+  nav: "posts"
 
 ---
 # 1. Time 모듈

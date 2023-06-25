@@ -290,6 +290,8 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar:
+        nav: "posts"
   
    # _pages
   - scope:
@@ -302,11 +304,3 @@ defaults:
       comments: false
       share: true
       related: false
-      
-   # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      sidebar:
-        nav: "docs"
