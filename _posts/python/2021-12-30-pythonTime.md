@@ -8,6 +8,8 @@ tags:
 - standard
 - python
 - programing
+sidebar:
+  nav: "docs"
 
 ---
 # 1. Time 모듈
