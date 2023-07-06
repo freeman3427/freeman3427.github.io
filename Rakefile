@@ -74,3 +74,7 @@ task :preview do
 
   Jekyll::Commands::Serve.process(options)
 end
+
+task :build do
+  system "env LANG=\"en_US.UTF-8\" bundle exec jekyll build"
+end
