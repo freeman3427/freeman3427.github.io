@@ -1,7 +1,7 @@
 ---
 title: "[Dreamhack] session-basic"
 categories:
--Security
+- Security
 
 toc: true
 toc_sticky: true
@@ -124,8 +124,8 @@ def admin():
 
     return session_storage
 ```
-<img src="/root/freeman3427.github.io/_posts/post-Imgs/K-166.png">
-<img src="/root/freeman3427.github.io/_posts/post-Imgs/K-165.png">
+![K-166](https://github.com/freeman3427/freeman3427.github.io/assets/92138609/898da6d3-43f3-4c16-8560-842596d74895)
+![K-165](https://github.com/freeman3427/freeman3427.github.io/assets/92138609/1634fd3d-857f-48a1-8f71-c3959cdd69a5)
 
 <br>
 코드를 보면 주소 뒤에 /admin 으로 한 뒤 접속하면 세션 저장소가 나온다<br/>
@@ -138,6 +138,6 @@ admin의 세션을 복사하도록 하자  <br/>
 
 그리고 새로고침 
 <br>
-<img src="/root/freeman3427.github.io/_posts/post-Imgs/K-164.png">
+![K-164](https://github.com/freeman3427/freeman3427.github.io/assets/92138609/b7df0118-fc60-42d5-915c-3e680fca7d25)
 
 
